@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning  computer and IT engineering.
 - 💬 I’m looking to collaborate on projects.
 - 📫 How to reach me dinis.aoliveira@ua.pt
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
-## 📈 GitHub Stats
-![Dinisoliv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinisoliv&show_icons=true&theme=radical)
+<!-- ## 📈 GitHub Stats -->
+<!-- ![Dinisoliv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinisoliv&show_icons=true&theme=radical) -->
 
 <!-- This is a comment -->
 
@@ -23,9 +23,9 @@
   - ![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=flat&logo=ghdl&logoColor=white)
   - ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-00599C?style=flat&logo=mips&logoColor=white)
 
-- **Development & Version Control:**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<!-- - **Development & Version Control:** -->
+<!--  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) -->
+<!--  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) -->
 
 - **FPGA & Hardware Design:**
   - ![Vivado](https://img.shields.io/badge/Vivado-007396?style=flat&logo=vivado&logoColor=white)
