@@ -8,9 +8,11 @@
 ## 📈 GitHub Stats
 ![Dinisoliv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinisoliv&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
+<!-- This is a comment -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Dinisoliv&theme=radical)
+<!--## 🏆 GitHub Trophies -->
+
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=Dinisoliv&theme=radical) -->
 
 ## 🛠️ Languages and Tools
 
