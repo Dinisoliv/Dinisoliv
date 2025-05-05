@@ -28,14 +28,14 @@
 <!--  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) -->
 
 - **FPGA & Digital Design:**
-  - ![Vivado](https://img.shields.io/badge/Vivado-007396?style=flat&logo=vivado&logoColor=white)
-  - ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-007396?style=flat&logo=quartus-prime&logoColor=white)
-  - ![Vitis Model Composer](https://img.shields.io/badge/Vitis%20Model%20Composer-007396?style=flat&logo=vitis-model-composer&logoColor=white)
-  - ![Altera DE2-115](https://img.shields.io/badge/Altera%20DE2--115-007396?style=flat&logoColor=white)
-  - ![Nexys A7](https://img.shields.io/badge/Nexys%20A7-007396?style=flat&logoColor=white)
+  - Vivado
+  - Quartus Prime
+  - Vitis Model Composer
+  - Altera DE2-115
+  - Nexys A7
 
-<!--- **Microcontroller** -->
-<!--  - ![PIC32]() -->
+ **Microcontrollers**
+  - PIC32
 
 ---
 
