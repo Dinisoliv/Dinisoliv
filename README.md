@@ -34,7 +34,7 @@
   - Altera DE2-115
   - Nexys A7
 
- **Microcontrollers**
+- **Microcontrollers**
   - PIC32
 
 ---
