@@ -36,6 +36,7 @@
 
 - **Microcontrollers**
   - PIC32
+  - ESP32
 
 ---
 
