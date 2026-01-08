@@ -1,5 +1,5 @@
 # Hi there, I'm Dinisoliv! 👋
-- 👀 I’m interested in programming, computer architecture and digital design.
+- 👀 I’m interested in programming, computer architecture, digital design, IoT and networks.
 - 🌱 I’m currently learning  computer and IT engineering.
 - 💬 I’m looking to collaborate on projects.
 - 📫 How to reach me dinis.aoliveira@ua.pt
