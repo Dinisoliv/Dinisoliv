@@ -48,6 +48,8 @@
   - ![Verilog](https://img.shields.io/badge/Verilog-FFA500?style=flat&logoColor=white)
   - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   - ![Web Development](https://img.shields.io/badge/Web%20Development-FF5733?style=flat&logo=html5&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+  - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any project.
 
