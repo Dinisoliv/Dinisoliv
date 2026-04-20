@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning  computer and IT engineering.
 - 💬 I’m looking to collaborate on projects.
 - 📫 How to reach me dinis.aoliveira@ua.pt
+- 📈 Check more: [Personal website](https://dinisoliv.github.io/dinisoliveira/)
 <!-- - ⚡ Fun fact: ... -->
 
 <!-- ## 📈 GitHub Stats -->
